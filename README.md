@@ -1,19 +1,18 @@
 # Operating_System
 ### Operating System Assignments:
 <ul>
-  <li>VirtualBox
-  <li>Shell In C
-  <li>Shell Programming(Conformance Testing)
+  <li>Triple Boot Demonstration:VirtualBox</li>
+  <li>Shell In C</li>
+  <li>Shell Programming(Conformance Testing)</li>
+  <li>Adding a System Call to Linux Kernel</li>
+  <li>Print an Inode, given Inode number (ext2 File System)
+  <li>Print an Inode or data, given path name(can be directory or file)(ext2 File System)</li>
 </ul>
-1.VirtualBox (Triple Boot)
-2.Shell in C
-3.Shell Programming(Conformance Testing)
-4.Adding System Call to Linux Kernel
-5.Print an Inode, given Inode number (ext2 File System)
-6.Print an Inode, given path name(ext2 File System)
 
 ### XV6 Assignments:
-1.Add XV6 system call 
-2.change Free list management in XV6
-3.Slab Allocator in XV6
-4.Add lseek system call
+<ul>
+  <li>Add XV6 system call </li>
+  <li>change Free list management in XV6</li>
+  <li>Slab Allocator in XV6</li>
+  <li>Add lseek system call</li>
+</ul>
