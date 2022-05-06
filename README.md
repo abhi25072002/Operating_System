@@ -1,5 +1,10 @@
 # Operating_System
 ### Operating System Assignments:
+<ul>
+  <li>VirtualBox
+  <li>Shell In C
+  <li>Shell Programming(Conformance Testing)
+</ul>
 1.VirtualBox (Triple Boot)
 2.Shell in C
 3.Shell Programming(Conformance Testing)
